@@ -1,0 +1,9 @@
+# Default high-value thresholds. Confirm with the project standard before formal reporting.
+
+PM25_DAILY_HIGH_UGM3: 75
+PM10_DAILY_HIGH_UGM3: 150
+O3_8H_HIGH_UGM3: 160
+O3_HOURLY_HIGH_UGM3: 200
+NO2_HOURLY_HIGH_UGM3: 200
+SO2_HOURLY_HIGH_UGM3: 500
+CO_HOURLY_HIGH_MGM3: 10

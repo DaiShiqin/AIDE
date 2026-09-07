@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMAQ Plot Data"
+  short_description: "Plot CMAQ time series and spatial distributions."
+  default_prompt: "Use $cmaq-plot-data to extract CMAQ forecast data and create the requested pollutant plot."

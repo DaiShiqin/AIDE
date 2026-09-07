@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chengdu CMAQ Correction"
+  short_description: "Diagnose and correct Chengdu CMAQ forecasts."
+  default_prompt: "Use $chengdu-cmaq-forecast-correction to diagnose and correct a Chengdu PM2.5 or O3 forecast."

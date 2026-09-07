@@ -1,0 +1,54 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest_tmp*/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Front-end dependencies and builds
+node_modules/
+dist/
+agent/web/node_modules/
+agent/web/dist/
+
+# Editor, operating-system, and assistant scratch files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+.codex-analysis/
+.codex_tmp/
+
+# Runtime state and generated artifacts
+agent/memory/*.jsonl
+outputs/
+输出/
+
+# Large local models and data (not distributed in this repository)
+deepRSM/
+数据/
+data/
+agent_without tools/
+basemodel_output/
+示例图片/
+文字材料/
+论文/
+比赛/
+成都市重污染天气应急预案（2024年修订版）.pdf
+
+# Local tests, development dependencies, and evaluation utilities
+tests/
+requirements-dev.txt
+scripts/
+skills/skill_series_overview.docx

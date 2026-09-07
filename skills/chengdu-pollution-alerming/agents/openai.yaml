@@ -1,0 +1,7 @@
+interface:
+  display_name: "Chengdu Pollution Warning"
+  short_description: "Calculate AQI and assess Chengdu warning levels."
+  default_prompt: "Use $chengdu-pollution-alerming to calculate AQI, assess the Chengdu warning level, and return the matching response measures."
+
+policy:
+  allow_implicit_invocation: true

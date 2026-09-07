@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMAQ Forecast QA"
+  short_description: "Analyze CMAQ forecasts with auditable summaries."
+  default_prompt: "Use $cmaq-forecast-qa to analyze pollutant and meteorological indicators in a CMAQ forecast."

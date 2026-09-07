@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run RSM Reduction"
+  short_description: "Run Chengdu RSM emission-reduction scenarios."
+  default_prompt: "Use $run-rsm-reduction to estimate PM2.5 improvement for a specified emission-reduction case."
