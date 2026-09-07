@@ -43,4 +43,4 @@ Never commit `.env`, API keys, local logs, restricted data, or screenshots conta
 
 ## Research resources
 
-Sample CMAQ data will be available through Zenodo at `[DATA DOI]`. Air-quality observations are available from [quotsoft.net/air](https://quotsoft.net/air/), and meteorological information can be accessed through [Windy.com](https://www.windy.com/).
+Sample CMAQ files for demonstrating the AIDE data-access workflow are publicly available through the [AIDE GitHub release](https://github.com/DaiShiqin/AIDE/releases/tag/data-v1.0). Air-quality observations are available from [quotsoft.net/air](https://quotsoft.net/air/), and meteorological information can be accessed through [Windy.com](https://www.windy.com/).
